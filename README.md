@@ -13,7 +13,7 @@ A copy of the work can be requested to the author after the discussion date.
 All codes are written in ```Python 3```. The ```NumPy```, ```SciPy```, ```statsmodels```, ```time```, ```pandas```, ```matplotlib```, ```csv``` and ```sklearn``` are needed to succesfully run the programs. All files need be placed in the same directory. All libraries are contained in the latest ```Anaconda``` or ```Conda``` distributions.
 
 ###### Sample Simulation
-To replicate the figures of the sample simulation, run ```make_figures.py```. Estimated runtime around 20'. 
+To replicate the figures of the sample simulation, run ```make_figures.py```. Estimated runtime around 20''. 
 Single realization time series are obtained by setting ```T=700``` and cutting the first 550 iterations as transient (line ```120``` of ```main.py```). This is done in lines ```141-168``` of ```main.py```. 
 
 ###### Monte Carlo Experiment
