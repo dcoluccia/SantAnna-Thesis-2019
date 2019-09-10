@@ -17,8 +17,8 @@ To replicate the figures of the sample simulation, run ```make_figures.py```. Es
 Single realization time series are obtained by setting ```T=700``` and cutting the first 550 iterations as transient (line ```120``` of ```main.py```). This is done in lines ```141-168``` of ```main.py```. 
 
 ###### Monte Carlo Experiment
-To generate the Monte Carlo time series, run ```panel.py```. Monte Carlo time series are obtained by setting ```T = 750``` and cutting the first 450 iterations. This is done respectively in lines ```120``` and ```141-168``` in ```main.py```.
+To generate the Monte Carlo time series, run ```panel.py```. Monte Carlo time series are obtained by setting ```T = 750``` and cutting the first 450 iterations. This is done respectively in lines ```120``` and ```141-168``` in ```main.py```. Estimated runtime around 1h.
 
 ###### Statistical Analysis
-To perform the analysis of said series, run ```MCanalysis.py```. Tables are exported in ```.tex``` format.
+To perform the analysis of said series, run ```MCanalysis.py```. Tables are exported in ```.tex``` format. Only run after ```.panel.py``` has been terminated.
 
