@@ -7,6 +7,8 @@ The program is freely available upon notification to the author (davide.coluccia
 
 This code is part of the aforementioned dissertation, submitted in partial fullfilment to the requirements for the *Diploma Magistrale* in Economics, by Scuola Superiore Sant'Anna, to be discussed in 12/2019. Supervisor: prof. Andrea Roventini.
 
+A copy of the work can be requested to the author after the discussion date.
+
 ## Replication Instructions
 All codes are written in ```Python 3```. The ```NumPy```, ```SciPy```, ```statsmodels```, ```time```, ```pandas```, ```matplotlib```, ```csv``` and ```sklearn``` are needed to succesfully run the programs. All files need be placed in the same directory. All libraries are contained in the latest ```Anaconda``` or ```Conda``` distributions.
 
