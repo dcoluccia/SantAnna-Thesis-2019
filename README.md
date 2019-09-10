@@ -1,4 +1,4 @@
-# Value-at-Risk and Credit Cycles. Replication codes.
+# Value-at-Risk and Credit Cycles: Replication codes
 
 ## General Disclaimer 
 These are the replication codes for the unpublished dissertation 
